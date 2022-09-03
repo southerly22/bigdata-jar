@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=cn.huorong.hbase.connectors.spark -DartifactId=hbase-spark -Dversion=2.3.5_spark-3.0.3 -Dpackaging=jar -Dfile=C:\Maven\repository3.8\huorong\hbase-spark-1.0.1-SNAPSHOT.jar
